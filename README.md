@@ -229,7 +229,7 @@ Así puedes reconocer que cada libro está dentro de `article.product_pod` y que
 
 ## Mini práctica
 
-Abre el archivo `index.html` de este repositorio en tu navegador. Después, prueba a cambiar valores en `styles.css`.
+Descarga los archivos `index.html` y `styles.css` de este repositorio en tu ordenador. Después, prueba a cambiar valores en `styles.css`.
 
 Ideas para experimentar:
 
